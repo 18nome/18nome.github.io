@@ -1,0 +1,32 @@
+/* 页脚与头图透明 */
+#footer {
+  background: transparent !important;
+}
+
+#article-container code {
+	/* background: rgba(27,31,35,0.05); */
+	background: transparent !important;
+	/* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Lato, Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif; */
+}
+
+
+
+/* #page-header { */
+  /* background: transparent !important; */
+/* } */
+
+/* /* 白天模式遮罩透明 */ */
+/* #footer::before { */
+  /* background: transparent !important; */
+/* } */
+/* #page-header::before { */
+  /* background: transparent !important; */
+/* } */
+
+/* /* 夜间模式遮罩透明 */ */
+/* [data-theme="dark"] #footer::before { */
+  /* background: transparent !important; */
+/* } */
+/* [data-theme="dark"] #page-header::before { */
+  /* background: transparent !important; */
+/* } */
